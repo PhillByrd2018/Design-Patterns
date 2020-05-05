@@ -1,0 +1,6 @@
+A component that is instantiated only once asn resisted being instantiated more than once
+ Ex
+    DB connections
+    CMS contents
+    Property documents
+    

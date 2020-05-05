@@ -1,0 +1,2 @@
+Motivation:
+    Some objects are simple and only need a single constructor. Allow people through an API to build things piece by piece.

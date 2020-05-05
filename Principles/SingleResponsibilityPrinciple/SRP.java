@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package Principles.SingleResponsibilityPrinciple;
 
 import java.io.File;
 import java.io.PrintStream;
